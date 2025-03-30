@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sshop</string>
+    <string name="item_image_description">Описание изображения товара</string>
+    <string name="view_button_text">Просмотреть</string>
+    <string name="view_button_buy">Купить</string>
+    <string name="auth">Авторизация</string>
+    <string name="getLog">Введите логин</string>
+    <string name="getPass">Введите пароль</string>
+    <string name="enter">Войти</string>
+    <string name="dontHaveAccount">Еще нет аккаунта?</string>
+    <string name="goods">Товары</string>
+    <string name="createAcc">Создайте аккаунт</string>
+    <string name="getEmail">Введите email</string>
+    <string name="reg">Регистрация</string>
+    <string name="haveAccount">Уже есть аккаунта?</string>
+</resources>
